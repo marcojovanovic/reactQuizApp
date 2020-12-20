@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { QuizzProvider } from './Quizz/context';
+import { QuizzProvider } from './QuizzOriginal/context';
 import App from './App';
 
 ReactDOM.render(

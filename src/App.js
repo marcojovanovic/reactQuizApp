@@ -1,22 +1,14 @@
 import React from 'react';
 import './App.css';
-import QuizzApp from './Quizz/QuizzApp';
-
+import QuizzApp from './QuizzOriginal/QuizzApp';
 
 
 
 function App() {
-
-
   return (
-    <div className="App">
-     
-     <QuizzApp />
-    
-     
-
-   
-    </div>
+    <>
+      <QuizzApp />
+    </>
   );
 }
 
